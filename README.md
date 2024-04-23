@@ -10,4 +10,5 @@ This is useful as it can offer developers or investors of video games insights a
 
 # Learning beyond the course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
-- Natural Language Processing, TextBlob, TDIDF
+- Natural Language Processing, TextBlob, TFIDF
+- Cleaning of language
