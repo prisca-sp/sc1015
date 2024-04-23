@@ -10,4 +10,4 @@ This is useful as it can offer developers or investors of video games insights a
 
 # Learning beyond the course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
-- Machine learning models including Natural Language Processing
+- Natural Language Processing, TextBlob, TDIDF
