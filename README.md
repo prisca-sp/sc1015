@@ -2,14 +2,42 @@
 We decided to use a dataset from Kaggle titled: "Popular Video Games 1980 - 2023 🎮" by randomarnab.
 https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 
-# Problem 
+# Table of content
+1. Motivation behind Problem Statement
+2. Problem Statement
+3. Data Preparation and Cleaning
+4. Exploratory Data Analysis(EDA)
+5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
+6. Machine Learning Models
+7. Data Driven Insights
+8. Conclusion
+9. Learning Beyond the Course
+10. References
+
+# 1. Motivation behind Problem Statement
+
+# 2. Problem Statemment
 Identifying patterns and trends in the evolution of video game genres over time to predict emerging genres/shifts in popularity
 
 Using regression models and Natural Language Processing, we aimed to analyse how different factors (ratings, reviews etc.) can contribute to a genre's popularity.
 This is useful as it can offer developers or investors of video games insights as to what genre can potentially rise in the future.
 
-# Learning beyond the course
+# 3. Data Preparation and Cleaning
+
+# 4. Exploratory Data Analysis(EDA)
+
+# 5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
+
+# 6. Machine Learning Models
+
+# 7. Data Driven Insights
+
+# 8. Conclusion
+
+# 9. Learning Beyond the Course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
 - Natural Language Processing, TextBlob, TFIDF
 - Cleaning of language
 - Logistic regression, clustering models
+
+# 10. References
