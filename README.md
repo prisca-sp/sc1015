@@ -12,3 +12,4 @@ This is useful as it can offer developers or investors of video games insights a
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
 - Natural Language Processing, TextBlob, TFIDF
 - Cleaning of language
+- Logistic regression, clustering models
