@@ -15,6 +15,7 @@ https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 10. References
 
 # 1. Motivation behind Problem Statement
+As of current, there are video games being released everyday, catered to different kinds of audiences. In 2023, more than 12000 games have been released. That is 32 games being released each day. In 2024, there has been 2403 games released and more are in the making. With such high numbers, there is furious competition between companies and indie game creators when releasing their game and ensuring that their games succeeds in the gaming scene. In order to keep up with the trend and ensuring that the games they create make a big hit to the scene, we have decided to look into the trend of games that are popular within the community currently to allow game creators and companies to have a better gauge on what type of games the community is looking for and what might be more attractive right now.
 
 # 2. Problem Statemment
 Identifying patterns and trends in the evolution of video game genres over time to predict emerging genres/shifts in popularity
