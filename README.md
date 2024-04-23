@@ -2,6 +2,11 @@
 We decided to use a dataset from Kaggle titled: "Popular Video Games 1980 - 2023 🎮" by randomarnab.
 https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 
+# Contributors
+1. github @ (name) - roles --> Data prep & cleaning, EDA...Slides, presenters
+2. @
+3. @
+
 # Table of content
 1. Motivation behind Problem Statement
 2. Problem Statement
