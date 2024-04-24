@@ -12,7 +12,7 @@ This is a Mini-Project SC1015 (Introduction to Data Science and Artificial Intel
 
 # Contributors
 1. [@prisca-sp](https://github.com/prisca-sp) (Prisca) - Data Preparation & Cleaning, Exploratory Data Analysis (EDA)
-2. [@Infernoexe](https://github.com/Infernoexe) (Mei Ling) - Data Preparation & Cleaning, Natural Language Processing (NLP)
+2. [@Infernoexe](https://github.com/Infernoexe) (Mei Ting) - Data Preparation & Cleaning, Natural Language Processing (NLP)
 3. [@luiSA07A](https://github.com/luiSA07A) (Luisa) - Machine Training for Clustering and Logistics Regression Model
 
 # Table of content
@@ -94,3 +94,4 @@ Comparison between reviews and summary was done to determine the relevancy of th
 - Logistic regression, clustering models
 
 # 9. References
+- Randomarnab. (2023, April). Popular Video Games 1980 - 2023 🎮. Kaggle. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data 
