@@ -6,7 +6,7 @@ This is a Mini-Project SC1015 (Introduction to Data Science and Artificial Intel
 
 1. [Data Preparation and Cleaning](https://github.com/prisca-sp/sc1015/blob/main/Data%20Preparation%20and%20Cleaning%20New.ipynb)
 2. [Exploratory Data Analysis(EDA)](https://github.com/prisca-sp/sc1015/blob/main/EDA%20analysis.ipynb)
-3. [Natural Language Processing(NLP) using TF-IDF and sentient analysis](https://github.com/prisca-sp/sc1015/blob/main/NLP%20with%20TFIDF%20and%20Sentiment%20Value.ipynb)
+3. [Natural Language Processing(NLP) using TF-IDF and sentiment analysis](https://github.com/prisca-sp/sc1015/blob/main/NLP%20with%20TFIDF%20and%20Sentiment%20Value.ipynb)
 4. [Clustering Model](https://github.com/prisca-sp/sc1015/blob/main/Unsupervised%20machine%20learning%20algorithm-clustering.ipynb)
 5. [Logistics Regression Model 2](https://github.com/prisca-sp/sc1015/blob/main/Supervised%20machine%20learning%20algorithm-Logistics%20regression-Model%202(final).ipynb)
 
@@ -20,7 +20,7 @@ This is a Mini-Project SC1015 (Introduction to Data Science and Artificial Intel
 2. [Problem Statement](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#2-problem-statemment)
 3. [Data Preparation and Cleaning](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#3-data-preparation-and-cleaning)
 4. [Exploratory Data Analysis(EDA)](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#4-exploratory-data-analysiseda)
-5. [Natural Language Processing(NLP) using TF-IDF and sentient analysis](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#5-natural-language-processingnlp-using-tf-idf-and-sentient-analysis)
+5. [Natural Language Processing(NLP) using TF-IDF and sentiment analysis](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#5-natural-language-processingnlp-using-tf-idf-and-sentient-analysis)
 6. [Machine Learning Models](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#6-machine-learning-models)
 7. [Conclusion](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#8-conclusion)
 8. [Learning Beyond the Course](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#9-learning-beyond-the-course)
@@ -44,8 +44,10 @@ Through the use of different graphs such as jointplot, bar graphs, pie charts, w
 
 'Interested', 'Playing', 'Review count' showed higher correlation, so we shall place more focus on these variables. To understand more about the words that appeared in the word cloud on Reviews, we will be utilising TF-IDF.
 
-# 5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
+# 5. Natural Language Processing(NLP) using TF-IDF and sentiment analysis
 To allow the algorithm to read texts, we removed all redundant unicode characters and completely non-English words. As long as the reviews contain English words, even though they may include Spanish, sentiment analysis will still be valid, through calculation using TextBlob.
+
+Sentiment Analysis was used to identify which reviews were positive and negative. Any value above 0 is considered a positive review, while anything below 0 is considered a negative review.
 
 Lemmatization of words from reviews and summary was done to make analysis more compact, allowing words to be in a singular form for the algorithm to find similarities more easily. Stop-words were also used to remove redundant and common filler words such as 'and', 'the'. 
 
