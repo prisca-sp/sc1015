@@ -78,9 +78,9 @@ Comparison between reviews and summary was done to determine the relevancy of th
   - Fairly Good and High Correlated Variables (at least R=0.63)
     - Currently Playing, Interested, Review Count and Total Plays
     - Totals Plays will be ommited as we only want to extract data from players currently playing the game and not the ones who have stopped
- - Low Correlated Variable (~R=0.4)
-    - Rating
-    - Important as it reflects the overall satisfaction players and performance of games
+    - Low Correlated Variable (~R=0.4)
+       - Rating
+       - Important as it reflects the overall satisfaction players and performance of games
 - Game developers and publishers can leverage capitalize on the growing popularity of the Brawler genre by creating innovative and engaging titles that cater to the specific preferences of players interested in dynamic combat and multiplayer interactions characteristic of Brawler games. (Cluster insight)
 - Clustering was valuable for grouping similar data points based on their numerical features, such as popularity metrics in the context of video games. We wanted to get a more meaningful evaluation of which genres would make the game popular according to the summary of the game.
 - By analyzing patterns and trends in the evolution of video game genres and using regression models and Natural Language Processing, we gained new insights.
