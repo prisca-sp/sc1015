@@ -1,6 +1,14 @@
 # SC1015 FCSB Group 2
-We decided to use a dataset from Kaggle titled: "Popular Video Games 1980 - 2023 🎮" by randomarnab.
-https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
+We decided to use a dataset from Kaggle titled: ["Popular Video Games 1980 - 2023 🎮"](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data)  by randomarnab.
+
+#About
+This is a Mini-Project SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on popular video games. For detailed walkthrough, view the source code in order from:
+
+1. [Data Preparation and Cleaning](https://github.com/prisca-sp/sc1015/blob/main/Data%20Preparation%20and%20Cleaning%20New.ipynb)
+2. [Exploratory Data Analysis(EDA)](https://github.com/prisca-sp/sc1015/blob/main/EDA%20analysis.ipynb)
+3. [Natural Language Processing(NLP) using TF-IDF and sentient analysis](https://github.com/prisca-sp/sc1015/blob/main/NLP%20with%20TFIDF%20and%20Sentiment%20Value.ipynb)
+4. [Clustering model](https://github.com/prisca-sp/sc1015/blob/main/Unsupervised%20machine%20learning%20algorithm-clustering.ipynb)
+5. [Logistics Regression Model 2](https://github.com/prisca-sp/sc1015/blob/main/Supervised%20machine%20learning%20algorithm-Logistics%20regression-Model%202(final).ipynb)
 
 # Contributors
 1. [@prisca-sp](https://github.com/prisca-sp) (Prisca) - Data Preparation & Cleaning, Exploratory Data Analysis (EDA)
