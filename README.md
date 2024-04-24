@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 3. [@luiSA07A](https://github.com/luiSA07A) (Luisa) - Machine Training for Clustering and Logistics Regression Model
 
 # Table of content
-1. Motivation behind Problem Statement
+1. [Motivation behind Problem Statement](https://github.com/prisca-sp/sc1015?tab=readme-ov-file#1-motivation-behind-problem-statement)
 2. Problem Statement
 3. Data Preparation and Cleaning
 4. Exploratory Data Analysis(EDA)
