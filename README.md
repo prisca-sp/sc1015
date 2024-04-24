@@ -3,9 +3,9 @@ We decided to use a dataset from Kaggle titled: "Popular Video Games 1980 - 2023
 https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 
 # Contributors
-1. github @ (name) - roles --> Data prep & cleaning, EDA...Slides, presenters
-2. @
-3. @
+1. [@prisca-sp](https://github.com/prisca-sp) (Prisca) - Data Preparation & Cleaning, Exploratory Data Analysis (EDA)
+2. [@Infernoexe](https://github.com/Infernoexe) (Mei Ling) - Data Preparation & Cleaning, Natural Language Processing (NLP)
+3. [@luiSA07A](https://github.com/luiSA07A) (Luisa) - Machine Training for Clustering and Logistics Regression Model
 
 # Table of content
 1. Motivation behind Problem Statement
