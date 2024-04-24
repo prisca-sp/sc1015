@@ -53,6 +53,21 @@ TF-IDF weight increases proportionally to the number of times a word appears in 
 Comparison between reviews and summary was done to determine the relevancy of the words. From there, we can determine which words are more relevant and frequent, giving us a gauge of what kind of games people usually prefer and what kind of audience the games generally cater to.
 
 # 6. Machine Learning Models
+1. Clustering
+   a. KMEANS clustering (Final cluster groups)
+     - Variables used
+       - Currently Playing, Ratings, Review counts and Interested
+     - 3 Groups
+         - High Popularity
+         - Moderate Popularity
+         - Low Popularity
+   b. DBSCAN
+   c. Gaussian mixture
+   d. Hierarchical clustering
+3. Logistics Regression
+   a. Model 1 (class Imbalance Problem)
+   b. Model 2 (Final model)
+   
 3 models, mainly Logistic Regression and Clustering.
 
 The first Logistic Regression model mainly involves the variables Playing, Ratings and Interested. The variables are used to separate each game into one of the 3 categories - High, Moderate and Low.
