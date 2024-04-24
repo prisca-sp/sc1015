@@ -1,7 +1,7 @@
 # SC1015 FCSB Group 2
 We decided to use a dataset from Kaggle titled: ["Popular Video Games 1980 - 2023 🎮"](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data)  by randomarnab.
 
-#About
+# About
 This is a Mini-Project SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on popular video games. For detailed walkthrough, view the source code in order from:
 
 1. [Data Preparation and Cleaning](https://github.com/prisca-sp/sc1015/blob/main/Data%20Preparation%20and%20Cleaning%20New.ipynb)
