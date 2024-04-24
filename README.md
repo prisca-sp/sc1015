@@ -29,8 +29,12 @@ Using regression models and Natural Language Processing, we aimed to analyse how
 This is useful as it can offer developers or investors of video games insights as to what genre can potentially rise in the future.
 
 # 3. Data Preparation and Cleaning
+Variables that were not very useful and null columns were removed. To make analysis easier later on, we changed the value type of variables to floats and integers accordingly. As many games were classified under multiple genres, we created a column for each genre through one-hot encoding.
 
 # 4. Exploratory Data Analysis(EDA)
+Through the use of different graphs such as jointplot, bar graphs, pie charts, word clouds , heatmaps and line charts, there were a few main observations. 'Adventure' was the genre with the largest proportion of popular games. While the average ratings of most genres fluctuated between 3.0 to 4.0 over the years, 'Visual Novel' maintained its position as highest rating, while MOBA reflected an anomaly of a 2.0 rating.
+
+'Interested', 'Playing', 'Review count' showed higher correlation, so we shall place more focus on these variables. To understand more about the words that appeared in the word cloud on Reviews, we will be utilising TF-IDF.
 
 # 5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
 
