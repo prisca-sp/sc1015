@@ -46,9 +46,9 @@ Through the use of different graphs such as jointplot, bar graphs, pie charts, w
 # 5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
 To allow the algorithm to read texts, we removed all redundant unicode characters and completely non-English words. As long as the reviews contain English words, even though they may include Spanish, sentiment analysis will still be valid, through calculation using TextBlob.
 
-Lemmatization of words was done to make analysis more compact. To make the sentiment value more useful, we will find games that are above 4.0 rating containing the top words from the summary of games extracted from positive reviews. This will give us a more accurate result of what are the top and popular/highly rated games the people are looking out for.
+Lemmatization of words from reviews and summary was done to make analysis more compact, allowing words to be in a singular form for the algorithm to find similarities more easily. Stop-words were also used to remove redundant and common filler words such as 'and', 'the'. 
 
-TF-IDF weight increases proportionally to the number of times a word appears in a dataset, but is offset by the number of datasets that contain the word. Stop words or connecting words rank low although they appear many times, as they do not mean much to the document. Through a matrix with TF-IDF weights for each word, we obtained a list of feature names that represent which words are included in these vectors.
+TF-IDF weight increases proportionally to the number of times a word appears in a dataset, but is offset by the number of datasets that contain the word. Stop words or connecting words rank low although they appear many times, as they do not mean much to the document. Through a matrix with TF-IDF weights for each word, we obtained a list of feature names that represent which words are included in these vectors and appear the most often.
 
 Comparison between reviews and summary was done to determine the relevancy of the words. From there, we can determine which words are more relevant and frequent, giving us a gauge of what kind of games people usually prefer and what kind of audience the games generally cater to.
 
