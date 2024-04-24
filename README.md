@@ -37,6 +37,11 @@ Through the use of different graphs such as jointplot, bar graphs, pie charts, w
 'Interested', 'Playing', 'Review count' showed higher correlation, so we shall place more focus on these variables. To understand more about the words that appeared in the word cloud on Reviews, we will be utilising TF-IDF.
 
 # 5. Natural Language Processing(NLP) using TF-IDF and sentient analysis
+To allow the algorithm to read texts, we removed all redundant unicode characters and completely non-English words. As long as the reviews contain English words, even though they may include Spanish, sentiment analysis will still be valid, through calculation using TextBlob.
+
+Lemmatization of words was done to make analysis more compact. To make the sentiment value more useful, we will find games that are above 4.0 rating containing the top words from the summary of games extracted from positive reviews. This will give us a more accurate result of what are the top and popular/highly rated games the people are looking out for.
+
+TF-IDF was included to 
 
 # 6. Machine Learning Models
 
