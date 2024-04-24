@@ -102,7 +102,7 @@ With all of these conclusions, game creators can have a better idea of what elem
 # 9. References
 - Akash. (2022, September 10). Making Natural Language Processing easy with TextBlob. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/10/making-natural-language-processing-easy-with-textblob/
 - D, Mesut. (2023, October). 🕹️NLP - Based Game Recommendation🎮. Kaggle. https://www.kaggle.com/code/dumanmesut/nlp-based-game-recommendation 
-- J, Clement (2024, March 6). Number of games released on Steam worldwide from 2004 to 2024 YTD. Statista. https://www.statista.com/statistics/552623/number-games-released-steam/
+- J, Clement. (2024, March 6). Number of games released on Steam worldwide from 2004 to 2024 YTD. Statista. https://www.statista.com/statistics/552623/number-games-released-steam/
 - Ragnar. (2021). Keywords Extraction Using TF-IDF Method. Kaggle. https://www.kaggle.com/code/rowhitswami/keywords-extraction-using-tf-idf-method
 - Randomarnab. (2023, April). Popular Video Games 1980 - 2023 🎮. Kaggle. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 - GeeksforGeeks. (2020, August 17). Display the pandas DataFrame in Heatmap style. https://www.geeksforgeeks.org/display-the-pandas-dataframe-in-heatmap-style/
