@@ -46,6 +46,7 @@ TF-IDF weight increases proportionally to the number of times a word appears in 
 Comparison between reviews and summary was done to determine the relevancy of the words. From there, we can determine which words are more relevant and frequent, giving us a gauge of what kind of games people usually prefer and what kind of audience the games generally cater to.
 
 # 6. Machine Learning Models
+3 models, mainly Logistic Regression and Clustering.
 
 # 7. Data Driven Insights
 
