@@ -98,4 +98,7 @@ With all of these conclusions, game creators can have a better idea of what elem
 - Logistic regression, clustering models
 
 # 9. References
-- Randomarnab. (2023, April). Popular Video Games 1980 - 2023 🎮. Kaggle. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data 
+- Randomarnab. (2023, April). Popular Video Games 1980 - 2023 🎮. Kaggle. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
+- D. Mesut. (2023, October). 🕹️NLP - Based Game Recommendation🎮. Kaggle. https://www.kaggle.com/code/dumanmesut/nlp-based-game-recommendation 
+- Akash. (2022, September 10). Making Natural Language Processing easy with TextBlob. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/10/making-natural-language-processing-easy-with-textblob/ 
+- Ragnar. (2021). Keywords Extraction Using TF-IDF Method. Kaggle. https://www.kaggle.com/code/rowhitswami/keywords-extraction-using-tf-idf-method 
