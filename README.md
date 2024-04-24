@@ -48,6 +48,8 @@ Comparison between reviews and summary was done to determine the relevancy of th
 # 6. Machine Learning Models
 3 models, mainly Logistic Regression and Clustering.
 
+The first Logistic Regression model mainly involves the variables Playing, Ratings and Interested. The variables are used to separate each game into one of the 3 categories - High, Moderate and Low.
+
 # 7. Data Driven Insights
 
 # 8. Conclusion
