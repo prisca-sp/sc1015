@@ -37,6 +37,7 @@ This is useful as it can offer developers or investors of video games insights a
 
 # 3. Data Preparation and Cleaning
 Variables that were not very useful and null columns were removed. To make analysis easier later on, we changed the value type of variables to floats and integers accordingly. As many games were classified under multiple genres, we created a column for each genre through one-hot encoding.
+Unicode was also removed from reviews and summary to clean the strings.
 
 # 4. Exploratory Data Analysis(EDA)
 Through the use of different graphs such as jointplot, bar graphs, pie charts, word clouds , heatmaps and line charts, there were a few main observations. 'Adventure' was the genre with the largest proportion of popular games. While the average ratings of most genres fluctuated between 3.0 to 4.0 over the years, 'Visual Novel' maintained its position as highest rating, while MOBA reflected an anomaly of a 2.0 rating.
