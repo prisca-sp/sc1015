@@ -93,7 +93,7 @@ With all of these conclusions, game creators can have a better idea of what elem
 # 8. Learning Beyond the Course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
 - Natural Language Processing, TextBlob, TFIDF
-- Cleaning of language
+- Cleaning of language (Removing non-English reviews)
 - Logistic regression, clustering models
 
 # 9. References
