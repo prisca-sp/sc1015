@@ -64,15 +64,28 @@ Comparison between reviews and summary was done to determine the relevancy of th
    b. DBSCAN
    c. Gaussian mixture
    d. Hierarchical clustering
-3. Logistics Regression
-   a. Model 1 (class Imbalance Problem)
-   b. Model 2 (Final model)
-   
-3 models, mainly Logistic Regression and Clustering.
 
-The first Logistic Regression model mainly involves the variables Playing, Ratings and Interested. The variables are used to separate each game into one of the 3 categories - High, Moderate and Low.
+2. Logistics Regression
+   - Trained Models
+      a. Model 1 (class Imbalance Problem)
+      b. Model 2 (Final model)
+   - Variables used
+        - TF-IDF features from Summary of game
+        - Cluster groups
 
 # 7. Conclusion
+- There is 5 variables that show the level of player engagement for every game to help us indicate their popularity in clustering.
+  - Fairly Good and High Correlated Variables (at least R=0.63)
+    - Currently Playing, Interested, Review Count and Total Plays
+    - Totals Plays will be ommited as we only want to extract data from players currently playing the game and not the ones who have stopped
+ - Low Correlated Variable (~R=0.4)
+    - Rating
+    - Important as it reflects the overall satisfaction players and performance of games
+- Game developers and publishers can leverage capitalize on the growing popularity of the Brawler genre by creating innovative and engaging titles that cater to the specific preferences of players interested in dynamic combat and multiplayer interactions characteristic of Brawler games. (Cluster insight)
+- Clustering was valuable for grouping similar data points based on their numerical features, such as popularity metrics in the context of video games. We wanted to get a more meaningful evaluation of which genres would make the game popular according to the summary of the game.
+- By analyzing patterns and trends in the evolution of video game genres and using regression models and Natural Language Processing, we gained new insights.
+- The consistent appearance of genres like Adventure and RPG in top combinations suggests a preference for immersive storytelling and character-driven gameplay. Additionally, genres such as Brawler, Simulation, Arcade, and Visual Novels, when combined with Adventure and RPG, can increase a game's appeal.
+- Game developers are encouraged to create games with a blend of genres, incorporating Adventure and RPG alongside Brawler, Simulation, Arcade and Visual Novels. This approach can lead to the development of more unique and diverse gaming experiences, catering to a broader audience. Combining genres not only enhances gameplay but also increases the chances of creating innovative and engaging games.
 
 # 8. Learning Beyond the Course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
