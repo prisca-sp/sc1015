@@ -106,4 +106,5 @@ With all of these conclusions, game creators can have a better idea of what elem
 - Ragnar. (2021). Keywords Extraction Using TF-IDF Method. Kaggle. https://www.kaggle.com/code/rowhitswami/keywords-extraction-using-tf-idf-method
 - Randomarnab. (2023, April). Popular Video Games 1980 - 2023 🎮. Kaggle. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/data
 - GeeksforGeeks. (2020, August 17). Display the pandas DataFrame in Heatmap style. https://www.geeksforgeeks.org/display-the-pandas-dataframe-in-heatmap-style/
-- hakim, A. (2022, September 30). Video games data analysis. Medium. https://medium.com/@armansyahhakim263/video-games-data-analysis-a7630d63dfef    
+- hakim, A. (2022, September 30). Video games data analysis. Medium. https://medium.com/@armansyahhakim263/video-games-data-analysis-a7630d63dfef
+- W3 Schools. (n.d.). CSS colors. https://www.w3schools.com/cssref/css_colors.php 
