@@ -86,6 +86,9 @@ Comparison between reviews and summary was done to determine the relevancy of th
 - By analyzing patterns and trends in the evolution of video game genres and using regression models and Natural Language Processing, we gained new insights.
 - The consistent appearance of genres like Adventure and RPG in top combinations suggests a preference for immersive storytelling and character-driven gameplay. Additionally, genres such as Brawler, Simulation, Arcade, and Visual Novels, when combined with Adventure and RPG, can increase a game's appeal.
 - Game developers are encouraged to create games with a blend of genres, incorporating Adventure and RPG alongside Brawler, Simulation, Arcade and Visual Novels. This approach can lead to the development of more unique and diverse gaming experiences, catering to a broader audience. Combining genres not only enhances gameplay but also increases the chances of creating innovative and engaging games.
+- From NLP, it was discovered that the gaming community focuses more on the characters, world-building, gameplay and story of the game. Some seem to negatively review games where these expectations aren't met, as many words appeared in both the positive and negative results. There were also series that they enjoyed more (Mario, Pokemon) compared to the others (Sonic the Hedgedog, Resident Evil). There is also a vocal minority of people who seem to dislike adventure and action type of games.
+
+With all of these conclusions, game creators can have a better idea of what elements the community is looking out for in games currently that will captivate them to play and enjoy themselves. This will allow the interested audience to play the games and gain popularity from there.
 
 # 8. Learning Beyond the Course
 - Utilisation of visualisation tools such as wordclouds, bar-line charts, pie charts etc.
